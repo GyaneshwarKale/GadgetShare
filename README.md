@@ -20,3 +20,17 @@
 - Open in a browser: http://localhost/gadgetshare/index.php
 
 DONE! your **GadgetShare** wesite is ready.
+<hr />
+
+<h2>Home: </h2>
+
+<p align="center">
+  <img src="Screenshot 2025-08-12 104338.png" alt="Final README screenshot" style="max-width:100%; height:auto;">
+</p>
+<hr />
+
+<h2>Dashboard: </h2>
+
+<p align="center">
+  <img src="Screenshot 2025-08-12 104234.png" alt="Final README screenshot" style="max-width:100%; height:auto;">
+</p>
